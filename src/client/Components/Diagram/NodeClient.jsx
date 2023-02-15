@@ -1,5 +1,5 @@
 import React from 'react';
-import im from './assets/client.png';
+import im from '../../assets/client.png';
 
 function NodeClient({ id, data }) {
   return (

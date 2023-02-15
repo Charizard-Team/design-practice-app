@@ -2,3 +2,8 @@
   text-align: center;
   font-size: 2.5rem;
 }
+
+.imgcontainer {
+  width: 500px;
+  height: 500px;
+}

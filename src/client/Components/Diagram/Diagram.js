@@ -9,7 +9,7 @@ import ReactFlow, {
   useEdgesState,
 } from 'reactflow';
 
-import NodeClient from './NodeClient';
+import NodeClient from './NodeClient.jsx';
 
 import 'reactflow/dist/style.css';
 import './overview.module.css';
